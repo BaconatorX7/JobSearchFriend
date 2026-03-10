@@ -1,0 +1,7 @@
+anthropic
+python-dotenv
+requests
+feedparser
+mechanicalsoup
+rich
+python-docx
